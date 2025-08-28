@@ -1,0 +1,4 @@
+python 220131_assignment2_bpe.py     --train train.txt --input sample-text.txt --vocab_size 5000
+python 220131_assignment2_wp.py      --train train.txt --input sample-text.txt --vocab_size 5000
+python 220131_assignment2_unigram.py --train train.txt --input sample-text.txt --vocab_size 5000
+python 220131_assignment2_sp.py      --train train.txt --input sample-text.txt --vocab_size 5000
